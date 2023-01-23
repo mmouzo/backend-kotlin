@@ -1,0 +1,1 @@
+rootProject.name = "com.mmouzo.kotlin-backend"
